@@ -1,7 +1,6 @@
 # Renewal Ranch
 
-## Project Overview
-Developed a comprehensive dashboard to estimate net greenhouse gas emissions from livestock farms using IPCC methodologies. The system optimizes feed solutions and balances emission reduction with cost efficiency, providing actionable insights for sustainable farm management practices. Interactive visualizations were created to monitor emissions, analyze feed scenarios, and track milk production.
+This is a comprehensive dashboard to estimate net greenhouse gas emissions from livestock farms using IPCC methodologies. The system optimizes feed solutions and balances emission reduction with cost efficiency, providing actionable insights for sustainable farm management practices. Interactive visualizations were created to monitor emissions, analyze feed scenarios, and track milk production.
 
 ## Technical Stack
 - **Python**
