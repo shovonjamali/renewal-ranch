@@ -1,0 +1,10 @@
+Set executable permission using chmod command:
+chmod +x run.sh
+Run the run.sh file from shell
+./run.sh
+
+
+Prerequisites: 
+python3 is installed and 
+Create access token in GitLab for the project and save it in local file “token”
+
